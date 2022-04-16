@@ -13,7 +13,7 @@ Open the `main.ipynb` & `Q1.ipyng` file in the `your-code` directory. Follow the
 ## Deliverables
 
 - `main.ipynb` with your responses.
-- `Q1.ipynb` with your responses.
+- `Q1.ipynb`,`Q2.ipynb` and `Q3.ipynb` with your responses.
 
 ## Submission
 
